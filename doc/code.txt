@@ -1,0 +1,11 @@
+while Tmp<>nil do
+    begin
+        if  Tmp1.Num = StrToInt(S) then i := i+1;
+            Begin
+                i := i+1;
+                Summ := Summ + Tmp^.Mark
+                tmp:=Tmp^.Next
+            En_d;
+            j:= Summ/i;
+            Edit5.Text := FloatToStr(j)
+    End;

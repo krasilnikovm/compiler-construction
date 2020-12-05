@@ -1,0 +1,2 @@
+if Tmp^.Num = StrToInt (S) then
+	i:= i+1;

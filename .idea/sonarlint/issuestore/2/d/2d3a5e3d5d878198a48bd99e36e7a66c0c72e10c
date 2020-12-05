@@ -1,0 +1,12 @@
+
+I	php:S1481¢"'Remove this unused "$t" local variable.(³¨ …ùÿÿÿÿ8·„ñòá.
+:php:S125C"Remove this commented out code.(Üîæİ8šöÅõá.
+:php:S125>"Remove this commented out code.(ŞÀ¹Ë8šöÅõá.
+p	php:S3776j"TRefactor this function to reduce its Cognitive Complexity from 21 to the 15 allowed.(íçĞ‹8Êïá.
+T	php:S1172"3Remove the unused function parameter "$configPath".(ïê‹ˆûÿÿÿÿ8Ÿ‘É á.
+9	php:S1763y"Remove this unreachable code.(œïÊ„8Êïá.
+:php:S125"Remove this commented out code.(ìîƒá8ß´«óá.
+j	php:S1117H"IRename "$token" which has the same name as the field declared at line 14.(°ÁŞÓüÿÿÿÿ8Ì¶ïá.
+:php:S125:"Remove this commented out code.(Ú°à¬8šöÅõá.
+k	php:S1142j"OReduce the number of returns of this function 5, down to the maximum allowed 3.(íçĞ‹8Êïá.
+k	php:S1117 "IRename "$token" which has the same name as the field declared at line 14.(ÇúøÚùÿÿÿÿ8µ¦Ïğá.
